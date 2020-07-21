@@ -1,0 +1,266 @@
+{
+    "skills": [
+
+                {
+                    "id": "g5KN9drOa25l4a3p",
+                    "skill_name": "Basic Networking Activities",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "z7jAgdvonj7lVwrO",
+                    "skill_name": "Architect",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "NzoyjlaXX3ndn1rg",
+                    "skill_name": "Algorithm Design / Development",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "N5JO8EXoogK6Aovb",
+                    "skill_name": "Object Oriented Programming (OOPS)",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "aqVz56nzzOn6BKGo",
+                    "skill_name": "Data Structures",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "O2QyVl8ZZ07EGX4N",
+                    "skill_name": "Design Patterns",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "5negGlOm00GEXkWR",
+                    "skill_name": "Code Analysis Tools / Software",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "KbmMBEwWO82EL10y",
+                    "skill_name": "Compilers and IDE",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "kxzqO64ZKn3d4BmJ",
+                    "skill_name": "Debugging Tools",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "o0VepdmNYg8lOq1M",
+                    "skill_name": "Frontend Development/Scripting Languages",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "pyxG3dgnDGGEg4eK",
+                    "skill_name": "Configuration, Release, Version Control",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "19KMQENJYvbELDjP",
+                    "skill_name": "Operating Systems",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "z7jAgdvoLOolVwrO",
+                    "skill_name": "Operating System Shells",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "9rWYel0MzGW6JROq",
+                    "skill_name": "Bug Tracking Tools",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "N5JO8EXpqZ9EAovb",
+                    "skill_name": "Software Domain",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "NkQRalyX2DndpYMx",
+                    "skill_name": "Industry / Functional Domain",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "rG0O2EzV2oWEyQYL",
+                    "skill_name": "Containers",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "aqVz56nx4WodBKGo",
+                    "skill_name": "IAAS Providers",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "Xp4g5E197raEbKN3",
+                    "skill_name": "Web Servers",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "N5JO8EXpwa8EAovb",
+                    "skill_name": "Application Servers",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "O2QyVl8ZzqrEGX4N",
+                    "skill_name": "ORM",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "KX1wmlovZWdYVeZq",
+                    "skill_name": "Software Quality And Delivery Processes",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "VewG3d5KYj6J7kmX",
+                    "skill_name": "Project Management Software",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "KX1wmlovNMdYVeZq",
+                    "skill_name": "Software Development Methodologies",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "VewG3d5K4p6J7kmX",
+                    "skill_name": "Software Architecture",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "kxzqO64DK164BmJD",
+                    "skill_name": "CI Tools",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "ge9ZWdJpN06Jmb78",
+                    "skill_name": "Database Operations",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "Q7zbMd9nJBl308LD",
+                    "skill_name": "Database Query Tools / Languages",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                },
+                {
+                    "id": "m19XQ6AypA562LDW",
+                    "skill_name": "Database, Using of",
+                    "parent_id": [],
+                    "parent_name": [],
+                    "has_sibling": 0,
+                    "has_children": 1,
+                    "has_related_category": 0
+                }
+            ]
+}

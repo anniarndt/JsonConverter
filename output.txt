@@ -1,0 +1,29 @@
+Basic Networking Activities
+Architect
+Algorithm Design / Development
+Object Oriented Programming (OOPS)
+Data Structures
+Design Patterns
+Code Analysis Tools / Software
+Compilers and IDE
+Debugging Tools
+Frontend Development/Scripting Languages
+Configuration, Release, Version Control
+Operating Systems
+Operating System Shells
+Bug Tracking Tools
+Software Domain
+Industry / Functional Domain
+Containers
+IAAS Providers
+Web Servers
+Application Servers
+ORM
+Software Quality And Delivery Processes
+Project Management Software
+Software Development Methodologies
+Software Architecture
+CI Tools
+Database Operations
+Database Query Tools / Languages
+Database, Using of
